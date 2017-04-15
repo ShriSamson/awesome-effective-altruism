@@ -1,14 +1,14 @@
 # Awesome Effective Altruism [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-**Effective Altruism is awesome in the original sense of the word "awesome"**—it's awe-inspiring to think how much one individual in developed countries can effectively make a positive impact in the world.
+**Effective Altruism is awesome in the original sense of the word "awesome"**—it's awe-inspiring and empowering to think how much one individual in developed countries can make a positive impact in the world effectively. :muscle:
 
 Infused with the spirit of scientific rigor and the ethos of improving the world, Effective Altruism is making such endeavors even more potent.
 
 Well-intentioned altruists have been shadowboxing against some of the knottiest problems due to a lack of scientific assessments of effectiveness. Usually, the world doesn't need more "-isms," but Effective Altruism may be the closest thing to a philanthropic revolution.
 
-The passion in this nascent community is so palpable, and **I believe it behooves us developers to create projects, tools, data visualizations, etc., that could possibly help this world suffer a little less.**
+The passion in this nascent community is so palpable, and **I believe it behooves us developers to create projects, tools, data visualizations, etc., that could possibly help this world suffer a little less.** :earth_africa:
 
-Contributions and issues are welcome!  
+Contributions and issues are welcome! Here are the [contribution guidelines](contributing.md).  
 For any personal suggestions, drop me a line: sheon.han[at]gmail.com.
 
 ## :book: Table of Contents
@@ -75,10 +75,6 @@ For any personal suggestions, drop me a line: sheon.han[at]gmail.com.
 ## :thought_balloon: Resources
 - [Coursera: Effective Altruism by Peter Singer](https://www.coursera.org/learn/altruism)
 - [Criticisms against Effective Altruism](http://wiki.effectivealtruismhub.com/index.php?title=Criticism_of_effective_altruism)
-
-## Contribute
-
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
 ## License
 
