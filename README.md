@@ -24,8 +24,6 @@ For any personal suggestions, drop me a line: sheon.han[at]gmail.com.
 - [:office: Organizations](#office-organizations)
 - [:octocat: Projects](#octocat-projects)
 - [:thought_balloon: Resources](#thought_balloon-resources)
-- [Contribute](#contribute)
-- [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
