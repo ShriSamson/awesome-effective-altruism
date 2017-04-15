@@ -11,17 +11,23 @@ The passion in this nascent community is so palpable, and **I believe it behoove
 Contributions and issues are welcome!  
 For any personal suggestions, drop me a line: sheon.han[at]gmail.com.
 
-## :book:   Contents
-- :computer: [Blogs](#Blogs)
-- :books: [Books](#Books)
-- :hammer: [Charity Evaluators](#Charity)
-- :busts_in_silhouette: [Communities & Meetups](#Communities & Meetups)
-  - [Online Communities](#Online Communities)
-  - [Meetups](#Meetups)
-  - [Student Organizations](#Student Organizations)
-- :office: [Organizations](#Organizations)
-- :octocat: [Projects](#Projects)
-- :thought_balloon: [Resources](#Resources)
+## :book: Table of Contents
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+- [:computer: Blogs](#computer-blogs)
+- [:books: Books](#books-books)
+- [:hammer: Charity Evaluators](#hammer-charity-evaluators)
+- [:busts_in_silhouette: Communities & Meetups](#busts_in_silhouette-communities--meetups)
+  - [Online Communities](#online-communities)
+  - [Meetups](#meetups)
+  - [Student Organizations](#student-organizations)
+- [:office: Organizations](#office-organizations)
+- [:octocat: Projects](#octocat-projects)
+- [:thought_balloon: Resources](#thought_balloon-resources)
+- [Contribute](#contribute)
+- [License](#license)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## :computer: Blogs
 - [Giving Gladly](http://www.givinggladly.com/) - Julia Wise
