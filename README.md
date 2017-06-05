@@ -11,7 +11,7 @@ Well-intentioned altruists have been shadowboxing against some of the knottiest 
 The passion in this nascent community is so palpable :heartpulse:, and **I believe it behooves us developers to create projects, tools, data visualizations, etc., that could possibly help this world suffer a little less.** :earth_africa:
 
 Contributions and issues are welcome! Here are the [contribution guidelines](contributing.md).  
-For any personal suggestions, drop me a line: sheon.han[at]gmail.com.
+For any personal suggestions, drop me a line: sheon.han@gmail.com.
 
 ## :book: Contents
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
