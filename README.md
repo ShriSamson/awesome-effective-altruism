@@ -11,7 +11,7 @@ The passion in this nascent community is so palpable :heartpulse:, and **I belie
 Contributions and issues are welcome! Here are the [contribution guidelines](contributing.md).  
 For any personal suggestions, drop me a line: sheon.han[at]gmail.com.
 
-## :book: Table of Contents
+## :book: Contents
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 - [:computer: Blogs](#computer-blogs)
