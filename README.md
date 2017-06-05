@@ -1,5 +1,7 @@
 # Awesome Effective Altruism [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+A curated list of everything related to Effective Altruism, which is a philosophy that uses scientific evidence and rigorous quantitative reasoning to take the most effective approach to doing philanthropy. As described by the Center for Effective Altruism, "Effective altruism is about using evidence and reason to figure out how to benefit others as much as possible, and taking action on that basis."
+
 **Effective Altruism is awesome in the original sense of the word "awesome"**—it's awe-inspiring and empowering to think how much one individual in developed countries can make a positive impact in the world effectively. :muscle:
 
 Infused with the spirit of scientific rigor and the ethos of improving the world, Effective Altruism is making such endeavors even more potent. :rocket:
