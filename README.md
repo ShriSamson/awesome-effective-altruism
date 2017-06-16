@@ -28,53 +28,58 @@ For any personal suggestions, drop me a line: sheon.han[at]gmail.com.
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## :computer: Blogs
-- [Giving Gladly](http://www.givinggladly.com/) - Julia Wise
-- [Jeff Kaufman's Blog](http://www.jefftk.com/index)
+- [Giving Gladly](http://www.givinggladly.com/) - Effective Altruism blog by Julia Wise
+- [Jeff Kaufman's Blog](http://www.jefftk.com/index) - Effective Altruism blog by Jeff Kaufman
 
 ## :books: Books
-- [The Life You Can Save: How to Do Your Part to End World Poverty](https://www.amazon.com/Life-You-Can-Save-Poverty/dp/0812981561/ref=sr_1_1?ie=UTF8&qid=1491663357&sr=8-1&keywords=the+life+you+can+save) - Peter Singer
-- [The Most Good You Can Do: How Effective Altruism Is Changing Ideas About Living Ethically The Most Good You Can Do: How Effective Altruism Is Changing Ideas](https://www.amazon.com/Most-Good-You-Can-Effective/dp/0300219865/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=TRVQNNNRAWC14C0MPW1M) - Peter Singer
-- [Famine, Affluence, and Morality](https://www.amazon.com/Famine-Affluence-Morality-Peter-Singer/dp/0190219203/ref=pd_sim_14_8?_encoding=UTF8&pd_rd_i=0190219203&pd_rd_r=PEC7WM3E5DARAS3P9QYA&pd_rd_w=u7ZoC&pd_rd_wg=9bC3i&psc=1&refRID=PEC7WM3E5DARAS3P9QYA)
-- [Doing Good Better: How Effective Altruism Can Help You Help Others, Do Work that Matters, and Make Smarter Choices about Giving Back](https://www.amazon.com/Doing-Good-Better-Effective-Altruism/dp/1592409660) - William MacAskill
-- [Strangers Drowning: Impossible Idealism, Drastic Choices, and the Urge to Help](https://www.amazon.com/Strangers-Drowning-Impossible-Idealism-Drastic/dp/0143109782/ref=pd_sim_14_6?_encoding=UTF8&pd_rd_i=0143109782&pd_rd_r=PEC7WM3E5DARAS3P9QYA&pd_rd_w=u7ZoC&pd_rd_wg=9bC3i&psc=1&refRID=PEC7WM3E5DARAS3P9QYA) - Larissa MacFarquhar
+- [The Life You Can Save: How to Do Your Part to End World Poverty](https://www.amazon.com/Life-You-Can-Save-Poverty/dp/0812981561/ref=sr_1_1?ie=UTF8&qid=1491663357&sr=8-1&keywords=the+life+you+can+save) - Provides ethical arguments, illuminating examples, and case studies of charitable giving to show that our current response to world poverty is not only insufficient but morally indefensible.
+- [The Most Good You Can Do: How Effective Altruism Is Changing Ideas About Living Ethically The Most Good You Can Do: How Effective Altruism Is Changing Ideas](https://www.amazon.com/Most-Good-You-Can-Effective/dp/0300219865/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=TRVQNNNRAWC14C0MPW1M) - Book about people who are restructuring their lives in accordance with Effective Altruism.
+- [Famine, Affluence, and Morality](https://www.amazon.com/Famine-Affluence-Morality-Peter-Singer/dp/0190219203/ref=pd_sim_14_8?_encoding=UTF8&pd_rd_i=0190219203&pd_rd_r=PEC7WM3E5DARAS3P9QYA&pd_rd_w=u7ZoC&pd_rd_wg=9bC3i&psc=1&refRID=PEC7WM3E5DARAS3P9QYA) - Essay by Peter Singer who argues that affluent persons are morally obligated to donate far more resources to humanitarian causes than is considered normal in Western cultures.
+- [Doing Good Better: How Effective Altruism Can Help You Help Others, Do Work that Matters, and Make Smarter Choices about Giving Back](https://www.amazon.com/Doing-Good-Better-Effective-Altruism/dp/1592409660) - William MacAskill explains why most of our ideas about how to make a difference are wrong and presents a counterintuitive way for each of us to do the most good possible.
+- [Strangers Drowning: Impossible Idealism, Drastic Choices, and the Urge to Help](https://www.amazon.com/Strangers-Drowning-Impossible-Idealism-Drastic/dp/0143109782/ref=pd_sim_14_6?_encoding=UTF8&pd_rd_i=0143109782&pd_rd_r=PEC7WM3E5DARAS3P9QYA&pd_rd_w=u7ZoC&pd_rd_wg=9bC3i&psc=1&refRID=PEC7WM3E5DARAS3P9QYA) - Larissa MacFarquhar seeks out people living lives of extreme ethical commitment and tells their deeply intimate stories; their stubborn integrity and their compromises; their bravery and their recklessness; their joys and defeats and wrenching dilemmas.
 
 ## :hammer: Charity Evaluators
-- [GiveWell](http://www.givewell.org/)
-- [Charity Science](http://www.charityscience.com)
-- [Animal Charity Evaluators](https://animalcharityevaluators.org)
+- [GiveWell](http://www.givewell.org/) - Non-profit charity evaluator and effective altruism-focused organization.
+- [Charity Science](http://www.charityscience.com) - Accessible pop science introduction to the science of picking and evaluating charities.
+- [Animal Charity Evaluators](https://animalcharityevaluators.org) - Find resources and recommendations on the top animal charities and interventions.
 
 ## :busts_in_silhouette: Communities & Meetups
 ### Online Communities
-- [Effective Altruism Forum](http://effective-altruism.com/ea/6x/introduction_to_effective_altruism/)
-- [Effective Altruism Facebook Group](https://www.facebook.com/groups/effective.altruists/)
-- [Effective Altruism Wiki](http://wiki.effectivealtruismhub.com/index.php?title=Effective_Altruism_Wiki)
+- [Effective Altruism Forum](http://effective-altruism.com/ea/6x/introduction_to_effective_altruism/) - Effective Altruism Q&A Forum.
+- [Effective Altruism Facebook Group](https://www.facebook.com/groups/effective.altruists/) - Effective Altruism Facebook Group.
+- [Effective Altruism Wiki](http://wiki.effectivealtruismhub.com/index.php?title=Effective_Altruism_Wiki) - Wiki run by Effective Altruism Hub.
 
 ### Meetups
-- [EA Hub](https://eahub.org/)
-- [Boston](https://www.meetup.com/Boston-Effective-Altruism/)
-- [London](https://www.meetup.com/Effective-Altruism-London/)
-- [New York City](https://www.meetup.com/Effective-Altruism-NYC/)
-- [Philadelphia](https://www.meetup.com/Effective-Altruism-Philadelphia/)
+- [EA Hub](https://eahub.org/) - Hosts and points to a range of resources and projects for effective altruists.
+- [Boston](https://www.meetup.com/Boston-Effective-Altruism/) - Effective Altruism Meetup in Boston
+- [London](https://www.meetup.com/Effective-Altruism-London/) - Effective Altruism Meetup in London
+- [New York City](https://www.meetup.com/Effective-Altruism-NYC/) - Effective Altruism Meetup in NYC
+- [Philadelphia](https://www.meetup.com/Effective-Altruism-Philadelphia/) - Effective Altruism Meetup in Philadelphia
 
 ### Student Organizations
-- [Effective Altruism at Harvard](http://www.harvardea.org/)
+- [Effective Altruism at Harvard](http://www.harvardea.org/) - Effective Altruism Student Group at Harvard
 
 
 ## :office: Organizations
-- [80,000 Hours](https://80000hours.org/)
-- [The Life You Can Save](https://www.thelifeyoucansave.org/)
-- [Giving What We Can](https://www.givingwhatwecan.org/)
-- [Center for Effective Altruism](https://www.centreforeffectivealtruism.org/)
-- [Open Philanthropy Project](http://www.openphilanthropy.org/)
-- [Good Ventures](http://www.goodventures.org/research-and-ideas/blog)
-- [Raising for Effective Giving](https://reg-charity.org/)
+- [80,000 Hours](https://80000hours.org/) - UK-based organisation that conducts research on the careers with positive social impact and provides career advice.
+- [The Life You Can Save](https://www.thelifeyoucansave.org/) - Peter Singer's organization devoted to providing information about and promoting participation in activities that reduce poverty and economic inequality.
+- [Giving What We Can](https://www.givingwhatwecan.org/) - Organization whose members pledge to give 10% of their income to effective charities.
+- [Center for Effective Altruism](https://www.centreforeffectivealtruism.org/) - Runs EA Global, Effective Altruism Funds, [effectivealtruism.org](effectivealtruism.org); defines Effective Altruism Concepts.
+- [Good Ventures](http://www.goodventures.org/research-and-ideas/blog) - Private foundation and philanthropic organization in San Francisco co-founded by Cari Tuna and Dustin Moskovitz, one of the co-founders of Facebook.
+- [Open Philanthropy Project](http://www.openphilanthropy.org/) - A vehicle to direct the funding done by Good Ventures.
 
 ## :octocat: Projects
-- [Impact Calculator](https://www.thelifeyoucansave.org/Impact-Calculator)
+- [Charity Impact Calculator](https://www.thelifeyoucansave.org/Impact-Calculator) - Calculator created by The Life You Can Save to show how much impact one can make by donation.
 
 ## :thought_balloon: Resources
-- [Coursera: Effective Altruism by Peter Singer](https://www.coursera.org/learn/altruism)
-- [Criticisms against Effective Altruism](http://wiki.effectivealtruismhub.com/index.php?title=Criticism_of_effective_altruism)
+- [Coursera: Effective Altruism by Peter Singer](https://www.coursera.org/learn/altruism) - Course on Effective Altruism by Peter Singer
+- [Criticisms against Effective Altruism](http://wiki.effectivealtruismhub.com/index.php?title=Criticism_of_effective_altruism) - Collected series of criticisms of Effective Altruism.
+
+## :heart: Acknowledgement
+- [Sandra Batista](https://www.cs.princeton.edu/people/profile/sbatista)
+- [Ali Javadi-Abhari](http://www.princeton.edu/~ajavadia/)
+- [The Life You Can Save](https://www.thelifeyoucansave.org/): Charlie Bresler, Jon Behar, Llamil Silman
+- [Peter Singer](http://www.petersinger.info/)
 
 ## License
 
