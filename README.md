@@ -1,17 +1,19 @@
 # Awesome Effective Altruism [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of everything related to [Effective Altruism](https://en.wikipedia.org/wiki/Effective_altruism)---a philosophy that uses scientific evidence and rigorous quantitative reasoning to take the most effective approach to doing philanthropy. As described by the Center for Effective Altruism, "Effective altruism is about using evidence and reason to figure out how to benefit others as much as possible, and taking action on that basis."
+A curated list of everything related to [Effective Altruism](https://en.wikipedia.org/wiki/Effective_altruism)—a philosophy that uses scientific evidence and rigorous quantitative reasoning to take the most effective approach to doing philanthropy.
 
-**Effective Altruism is awesome in the original sense of the word "awesome"**—it's awe-inspiring and empowering to think how much one individual in developed countries can make a positive impact in the world effectively. :muscle:
+As described by [the Center for Effective Altruism](https://www.centreforeffectivealtruism.org/what-is-effective-altruism/), "Effective altruism is about using evidence and reason to figure out how to benefit others as much as possible, and taking action on that basis."
+
+**Effective Altruism is awesome in the original sense of the word "awesome"**—it's awe-inspiring and empowering to think how much one individual can make a positive impact in the world with the right approach. :muscle:
 
 Infused with the spirit of scientific rigor and the ethos of improving the world, Effective Altruism is making such endeavors even more potent. :rocket:
 
-Well-intentioned altruists have been shadowboxing against some of the knottiest problems due to a lack of scientific assessments of effectiveness. Usually, the world doesn't need more "-isms," but Effective Altruism may be the closest thing to a philanthropic revolution. :point_up:
+Well-intentioned altruists have been shadowboxing against some of the knottiest problems. Usually, the world doesn't need more "-isms," but Effective Altruism may be the closest thing to a philanthropic revolution. :point_up:
 
-The passion in this nascent community is so palpable :heartpulse:, and **I believe it behooves us developers to create projects, tools, data visualizations, etc., that could possibly help this world suffer a little less.** :earth_africa:
+The passion in this nascent community is so palpable:fire:. **I believe it behooves us developers to create projects, tools, data visualizations, etc., that could help this world suffer a little less.** :earth_africa:
 
 Contributions and issues are welcome! Here are the [contribution guidelines](contributing.md).  
-For any personal suggestions, drop me a line: sheon.han@gmail.com.
+For any personal suggestions, drop me a line: sheon.han[at]gmail.com.
 
 ## :book: Contents
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
