@@ -1,6 +1,6 @@
 # Awesome Effective Altruism [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of everything related to Effective Altruism, which is a philosophy that uses scientific evidence and rigorous quantitative reasoning to take the most effective approach to doing philanthropy. As described by the Center for Effective Altruism, "Effective altruism is about using evidence and reason to figure out how to benefit others as much as possible, and taking action on that basis."
+A curated list of everything related to [Effective Altruism](https://en.wikipedia.org/wiki/Effective_altruism)---a philosophy that uses scientific evidence and rigorous quantitative reasoning to take the most effective approach to doing philanthropy. As described by the Center for Effective Altruism, "Effective altruism is about using evidence and reason to figure out how to benefit others as much as possible, and taking action on that basis."
 
 **Effective Altruism is awesome in the original sense of the word "awesome"**—it's awe-inspiring and empowering to think how much one individual in developed countries can make a positive impact in the world effectively. :muscle:
 
@@ -16,6 +16,8 @@ For any personal suggestions, drop me a line: sheon.han@gmail.com.
 ## :book: Contents
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
 - [:computer: Blogs](#computer-blogs)
 - [:books: Books](#books-books)
 - [:hammer: Charity Evaluators](#hammer-charity-evaluators)
@@ -23,9 +25,12 @@ For any personal suggestions, drop me a line: sheon.han@gmail.com.
   - [Online Communities](#online-communities)
   - [Meetups](#meetups)
   - [Student Organizations](#student-organizations)
+- [:collision: Criticism & Critique](#collision-criticism--critique)
 - [:office: Organizations](#office-organizations)
 - [:octocat: Projects](#octocat-projects)
 - [:thought_balloon: Resources](#thought_balloon-resources)
+- [:heart: Acknowledgement](#heart-acknowledgement)
+- [:key: License](#key-license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -61,6 +66,13 @@ For any personal suggestions, drop me a line: sheon.han@gmail.com.
 ### Student Organizations
 - [Effective Altruism at Harvard](http://www.harvardea.org/) - Effective Altruism Student Group at Harvard
 
+## :collision: Criticism & Critique
+- [Philosophical Critiques of Effective Altruism](http://effective-altruism.com/ea/x4/philosophical_critiques_of_effective_altruism_by/) - Oxford Moral Professor Jeff McMahan
+- [Effective Altruism Complaints](http://www.overcomingbias.com/2015/07/effective-altruism-complaints.html) - Robin Hanson of Overcoming Bias
+- [Art is a waste of time – or so Effective Altruism claims](https://aeon.co/essays/art-is-a-waste-of-time-or-so-effective-altruism-claims) - Aeon
+- [Should Charity Be Logical?](http://www.slate.com/articles/news_and_politics/view_from_chicago/2015/03/effective_altruism_critique_few_charities_stand_up_to_rational_evaluation.html) - Slate
+- [A critique of Effective Altruism](https://www.benkuhn.net/ea-critique) - Ben Kuhn's hypothetical apostasy of Effective Altruism.
+- [The Elitist Philanthropy of So-Called Effective Altruism](https://ssir.org/articles/entry/the_elitist_philanthropy_of_so_called_effective_altruism) - Stanford Social Innovation Review
 
 ## :office: Organizations
 - [80,000 Hours](https://80000hours.org/) - UK-based organisation that conducts research on the careers with positive social impact and provides career advice.
@@ -78,12 +90,12 @@ For any personal suggestions, drop me a line: sheon.han@gmail.com.
 - [Criticisms against Effective Altruism](http://wiki.effectivealtruismhub.com/index.php?title=Criticism_of_effective_altruism) - Collected series of criticisms of Effective Altruism.
 
 ## :heart: Acknowledgement
+- [Peter Singer](http://www.petersinger.info/)
+- [The Life You Can Save](https://www.thelifeyoucansave.org/)'s Charlie Bresler, Jon Behar, Llamil Silman
 - [Sandra Batista](https://www.cs.princeton.edu/people/profile/sbatista)
 - [Ali Javadi-Abhari](http://www.princeton.edu/~ajavadia/)
-- [The Life You Can Save](https://www.thelifeyoucansave.org/)'s Charlie Bresler, Jon Behar, Llamil Silman
-- [Peter Singer](http://www.petersinger.info/)
 
-## License
+## :key: License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
