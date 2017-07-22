@@ -80,7 +80,7 @@ For any personal suggestions, drop me a line: sheon.han@gmail.com.
 ## :heart: Acknowledgement
 - [Sandra Batista](https://www.cs.princeton.edu/people/profile/sbatista)
 - [Ali Javadi-Abhari](http://www.princeton.edu/~ajavadia/)
-- [The Life You Can Save](https://www.thelifeyoucansave.org/): Charlie Bresler, Jon Behar, Llamil Silman
+- [The Life You Can Save](https://www.thelifeyoucansave.org/)'s Charlie Bresler, Jon Behar, Llamil Silman
 - [Peter Singer](http://www.petersinger.info/)
 
 ## License
